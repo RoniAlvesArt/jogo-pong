@@ -1,7 +1,7 @@
 <div>
 <h1>Pong - O clássico jogo de tênis de mesa em JavaScript</h1>
 <p align="center">
-  <img width="460" height="300" src="https://github.com/RoniAlvesArt/jogo-pong/blob/main/pong-screenshot.jpg">
+  <img width="600" height="auto" src="https://github.com/RoniAlvesArt/jogo-pong/blob/main/pong-screenshot.jpg">
 </p>
 </div>
 
