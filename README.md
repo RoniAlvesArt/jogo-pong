@@ -1,6 +1,6 @@
 <div>
 <h1>Pong - O clássico jogo de tênis de mesa em JavaScript</h1>
-<p align="center">
+<p align="left">
   <img width="600" height="auto" src="https://github.com/RoniAlvesArt/jogo-pong/blob/main/pong-screenshot.jpg">
 </p>
 </div>
